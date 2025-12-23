@@ -1,2 +1,2 @@
-# Python-Tuple-and-sets-
+# Python-Tuple-and-Sets
 Tuple and sets basics 
